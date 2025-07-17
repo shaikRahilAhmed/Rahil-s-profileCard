@@ -21,7 +21,7 @@ This project is a **modern profile card** that includes:
 
 ## 📸 Preview
 
-![ProfileCard Preview](./screenshot.png) <!-- Replace with actual image or leave it blank -->
+![ProfileCard Preview](./src/scanner.jpg) <!-- Replace with actual image or leave it blank -->
 
 ---
 
@@ -49,13 +49,6 @@ This project is a **modern profile card** that includes:
 **Shaik Rahil**  
 `Full Stack Enthusiast | AIML Student | Project Builder`  
 📧 [shaikrahil732@gmail.com](mailto:shaikrahil732@gmail.com)
-
----
-
-## 📬 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link/)  
-[![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)](https://github.com/shaikrahil732)
 
 ---
 
